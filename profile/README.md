@@ -15,21 +15,23 @@ Team of passionate Minecraft modders.
 <img src="https://i.imgur.com/yhha6Zo.png" alt="separator"/>
 
 ## About us  
-The **Dawn of Time Team** is a group of Minecraft creators that has been active since **2017**. Originally founded by two builders, **Poulpinou** and **TheGoldenWorld**, the team released its first mod in **2019**: *Dawn of Time* for Minecraft 1.12. Over the years, the project expanded, welcoming new members and developing new mods while keeping the same philosophy: bringing **vanilla-friendly content** that extends Minecraft’s universe without breaking its spirit.  
 
-Our goal is to enrich the game with **cultural, architectural, and fantasy-inspired content**, while adding new blocks, items, and features that feel at home in Minecraft. Every project is designed to **respect the vanilla experience**, while offering builders, adventurers, and survival players new **creative tools and extended gameplay loops**.  
+We are the **Dawn of Time Team**, a group of Minecraft creators active since **2017**. The adventure started with just the two of us — **Poulpinou** and **TheGoldenWorld** — both builders passionate about architecture and design. In **2019**, we released our very first mod: *Dawn of Time* for Minecraft 1.12. Since then, the project has grown, with new members joining and new mods being developed.  
 
-## Our mods
-**🧱 Building blocks:**
-- **Dawn of Time** – an **architecture mod** adding cultural blocks and furniture to enrich building.
+What has never changed is our philosophy: bringing **vanilla-friendly content** that expands Minecraft’s universe without ever breaking its spirit. Our aim is to add **cultural, architectural, and fantasy-inspired content** that feels natural in the game, giving players new **creative tools** and extending gameplay loops for builders, adventurers, and survival players alike.  
 
-**🛡️ Armors:**
-- **Armor of the Ages** – introduces **cultural and fantasy armors** with custom **3D models and animations**.  
-- **Armored Doggo** – gives your dogs **3D animated armor** with a unique **dye feature**.
+## Mods list 
 
-**🏛️ Lone structures:**
-- **Ancient Structures** – adds **lone buildings** scattered across the world, featuring Dawn of Time blocks and Armor of the Ages mobs.
-- **Forgotten Ruins** – generates **mystical ruins** across the world, filled with secrets.  
+**🧱 Building blocks:**  
+- **Dawn of Time** – our first big project, an **architecture mod** that adds cultural blocks and furniture to make building richer and more immersive.  
+
+**🛡️ Armors:**  
+- **Armor of the Ages** – a collection of **cultural and fantasy armors** with unique **3D models and animations**.  
+- **Armored Doggo** – because dogs deserve their own style too! This mod gives them **3D animated armor** with a **dye system** for customization.  
+
+**🏛️ Lone structures:**  
+- **Ancient Structures** – scattered **lone buildings** across the world, made with Dawn of Time blocks and guarded by mobs wearing Armor of the Ages gear.  
+- **Forgotten Ruins** – world generation that brings **mystical ruins** to biomes, full of atmosphere and secrets to discover.  
 
 <img src="https://i.imgur.com/yhha6Zo.png" alt="separator"/>
 
